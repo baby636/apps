@@ -34,7 +34,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^18.5.5",
+    "@octokit/rest": "^18.5.6",
     "@zeit/fetch-retry": "^5.0.1",
     "bottleneck": "^2.19.5",
     "chai": "^4.3.4",
