@@ -51,7 +51,7 @@
     "image-size": "^1.0.0",
     "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.2",
-    "inquirer": "^8.1.0",
+    "inquirer": "^8.1.1",
     "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.4",
     "jimp": "^0.16.1",
