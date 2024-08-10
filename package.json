@@ -39,7 +39,7 @@
     "bottleneck": "^2.19.5",
     "chai": "^4.3.4",
     "check-for-leaks": "^1.2.1",
-    "cheerio": "^1.0.0-rc.9",
+    "cheerio": "^1.0.0",
     "clean-deep": "^3.4.0",
     "color-convert": "^2.0.1",
     "count-array-values": "^1.2.1",
